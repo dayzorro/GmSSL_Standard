@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/sha384test.dir/tests/sha384test.c.o -o bin/sha384test  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

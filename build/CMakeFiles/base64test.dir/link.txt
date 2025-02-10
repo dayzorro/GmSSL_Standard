@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/base64test.dir/tests/base64test.c.o -o bin/base64test  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

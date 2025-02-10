@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/pemtest.dir/tests/pemtest.c.o -o bin/pemtest  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

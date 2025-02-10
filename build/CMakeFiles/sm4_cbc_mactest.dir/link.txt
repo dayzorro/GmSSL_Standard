@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/sm4_cbc_mactest.dir/tests/sm4_cbc_mactest.c.o -o bin/sm4_cbc_mactest  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/asn1test.dir/tests/asn1test.c.o -o bin/asn1test  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

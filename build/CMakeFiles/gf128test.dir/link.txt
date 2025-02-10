@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/gf128test.dir/tests/gf128test.c.o -o bin/gf128test  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

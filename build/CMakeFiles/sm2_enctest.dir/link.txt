@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/sm2_enctest.dir/tests/sm2_enctest.c.o -o bin/sm2_enctest  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

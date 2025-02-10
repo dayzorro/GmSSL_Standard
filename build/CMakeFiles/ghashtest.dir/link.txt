@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/ghashtest.dir/tests/ghashtest.c.o -o bin/ghashtest  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

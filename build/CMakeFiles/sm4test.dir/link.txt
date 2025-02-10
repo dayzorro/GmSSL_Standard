@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/sm4test.dir/tests/sm4test.c.o -o bin/sm4test  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 

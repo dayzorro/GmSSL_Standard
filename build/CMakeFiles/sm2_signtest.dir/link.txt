@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/sm2_signtest.dir/tests/sm2_signtest.c.o -o bin/sm2_signtest  -Wl,-rpath,/home/shawn/Codes/gmssl/build/bin bin/libgmssl.so.3.1 -ldl 
